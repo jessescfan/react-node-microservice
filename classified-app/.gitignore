@@ -105,3 +105,6 @@ dist
 
 # IntelliJ stuff
 .idea
+
+# ignore deploy file
+deploy.sh
